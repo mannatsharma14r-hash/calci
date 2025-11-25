@@ -1,4 +1,5 @@
 def add(a, b):
     return a + b
 
-print("Calculator ready.")
+print("Calculator ready - version from feature A.")
+
